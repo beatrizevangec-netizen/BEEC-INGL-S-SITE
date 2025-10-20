@@ -1,0 +1,18 @@
+Arquivos de Sistema Operacional (macOS, Windows)
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Arquivos de editores de código comuns
+
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+Diretórios de dependências de projetos (caso você adicione Node.js ou ferramentas futuras)
+
+/node_modules
+/npm-debug.log
+/yarn-error.log
